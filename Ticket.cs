@@ -13,6 +13,11 @@ namespace TicketSystemClass
         public string assigned {get;set;}
         public List<string> watching {get;set;}
 
+        public Ticket()
+        {
+            watching = new List<string>();
+        }
+
         public string Show()
         {
             return $"Id: {ticketID}\nSummary: {summary}\nStatus: {status}\nPriority: {priority}\nSubmitter: {submit}\nAssigned: {assigned}\nWatching: {string.Join(", ", watching)}\n";
