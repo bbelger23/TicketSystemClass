@@ -8,7 +8,10 @@ namespace TicketSystemClass
         private static NLog.Logger logger = NLogBuilder.ConfigureNLog(Directory.GetCurrentDirectory() + "\\nlog.config").GetCurrentClassLogger();
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string ticketPath = Directory.GetCurrentDirectory() + "\\tickets.csv";
+
+            logger.Info("Program Started");
+            
         }
     }
 }
