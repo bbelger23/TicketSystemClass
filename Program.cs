@@ -59,6 +59,8 @@ namespace TicketSystemClass
                         ticket.watching.Add("(No one is watching the ticket)");
                     }
 
+                    ticketFile.AddTicket(ticket);
+
                 } else if (option == "2")
                 {
                     // display all tickets

@@ -6,3 +6,11 @@
 2022-02-26 16:40:10.8420|INFO|TicketSystemClass.Program|Program ended
 2022-02-26 16:59:44.3470|INFO|TicketSystemClass.Program|Program Started
 2022-02-26 17:00:24.9364|INFO|TicketSystemClass.Program|Program ended
+2022-02-26 17:37:04.2103|INFO|TicketSystemClass.Program|Program Started
+2022-02-26 17:37:34.7406|INFO|TicketSystemClass.Program|Program ended
+2022-02-26 17:38:10.8522|INFO|TicketSystemClass.Program|Program Started
+2022-02-26 17:38:10.8987|ERROR|TicketSystemClass.TicketFile|Input string was not in a correct format.
+2022-02-26 17:38:55.6355|ERROR|TicketSystemClass.TicketFile|Sequence contains no elements
+2022-02-26 17:41:12.8908|INFO|TicketSystemClass.Program|Program ended
+2022-02-26 17:41:39.3172|INFO|TicketSystemClass.Program|Program Started
+2022-02-26 17:42:10.9755|INFO|TicketSystemClass.Program|Program ended
