@@ -22,7 +22,18 @@ namespace TicketSystemClass
                 Console.WriteLine("Press any key to quit");
 
                 option = Console.ReadLine();
-                
+
+                if (option == "1")
+                {
+
+                } else if (option == "2")
+                {
+                    foreach(Ticket t in ticketFile.Tickets)
+                    {
+                        Console.WriteLine(t.Show());
+                    }
+                }
+
             } while (option == "1" || option == "2");
 
             logger.Info("Program ended");
