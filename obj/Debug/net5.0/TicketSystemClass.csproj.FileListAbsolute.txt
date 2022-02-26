@@ -1,0 +1,16 @@
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.exe
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.deps.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.runtimeconfig.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.runtimeconfig.dev.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\ref\TicketSystemClass.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\bin\Debug\net5.0\TicketSystemClass.pdb
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.csproj.AssemblyReference.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.AssemblyInfoInputs.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.AssemblyInfo.cs
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.csproj.CoreCompileInputs.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\ref\TicketSystemClass.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.pdb
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\TicketSystemClass\obj\Debug\net5.0\TicketSystemClass.genruntimeconfig.cache
