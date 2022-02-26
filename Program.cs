@@ -13,6 +13,20 @@ namespace TicketSystemClass
 
             logger.Info("Program Started");
 
+            Ticket ticket = new Ticket
+            {
+                ticketID = 1,
+                summary = "This is a bug ticket",
+                status = "Open",
+                priority = "High",
+                submit = "Drew Kjell",
+                assigned = "Jane Doe",
+                watching = new List<string> {"Drew Kjell", "John Smith", "Bill Jones"}
+            };
+
+            Console.WriteLine(ticket.Show());
+            
+            logger.Info("Program ended");
         }    
     }
 }
