@@ -1,2 +1,4 @@
 2022-02-26 16:08:52.9479|INFO|TicketSystemClass.Program|Program Started
 2022-02-26 16:08:52.9692|INFO|TicketSystemClass.Program|Program ended
+2022-02-26 16:24:26.9933|INFO|TicketSystemClass.Program|Program Started
+2022-02-26 16:24:29.7497|INFO|TicketSystemClass.Program|Program ended

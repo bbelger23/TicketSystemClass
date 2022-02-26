@@ -13,19 +13,18 @@ namespace TicketSystemClass
 
             logger.Info("Program Started");
 
-            Ticket ticket = new Ticket
-            {
-                ticketID = 1,
-                summary = "This is a bug ticket",
-                status = "Open",
-                priority = "High",
-                submit = "Drew Kjell",
-                assigned = "Jane Doe",
-                watching = new List<string> {"Drew Kjell", "John Smith", "Bill Jones"}
-            };
+            TicketFile ticketFile = new TicketFile(ticketFilePath);
 
-            Console.WriteLine(ticket.Show());
-            
+            string option = "";
+            do{
+                Console.WriteLine("1. Add Ticket");
+                Console.WriteLine("2. Display Tickets");
+                Console.WriteLine("Press any key to quit");
+
+                option = Console.ReadLine();
+                
+            } while (option == "1" || option == "2");
+
             logger.Info("Program ended");
         }    
     }
